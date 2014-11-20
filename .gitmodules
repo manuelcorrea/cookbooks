@@ -1,0 +1,3 @@
+[submodule "deployme"]
+	path = deployme
+	url = git@github.com:manuelcorrea/deployme.git
