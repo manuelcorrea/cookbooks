@@ -1,0 +1,7 @@
+DEPENDENCIES
+  deployme
+    git: https://github.com/manuelcorrea/deployme.git
+    revision: 1332c03f14f95af29339b380abe836e7a1062d44
+
+GRAPH
+  deployme (0.1.0)
