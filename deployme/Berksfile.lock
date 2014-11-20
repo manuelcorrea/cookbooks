@@ -1,0 +1,7 @@
+DEPENDENCIES
+  deployme
+    path: .
+    metadata: true
+
+GRAPH
+  deployme (0.1.0)
